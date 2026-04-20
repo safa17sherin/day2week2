@@ -19,6 +19,6 @@ img {width: 300px;}
 background-image: url(icecream2.jpeg);
 background-image: url(icecream3.jpeg);
 height: 300px;
-display: relative;
+display: flex;
 gap: 10px;}
 
