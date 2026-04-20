@@ -13,8 +13,7 @@ overflow: auto;
 max-width: 800px;
 margin: 0 auto;}
 
-img {width: 300px;
-opacity: 0.5;}
+img {width: 300px;}
 
 .images{background-image: url(icecream1.jpeg);
 background-image: url(icecream2.jpeg);
